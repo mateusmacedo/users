@@ -1,4 +1,4 @@
-# Authentication SSO Service
+# Users Service
 
 # Features
 
